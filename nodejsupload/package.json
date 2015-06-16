@@ -1,0 +1,15 @@
+
+{
+  "name": "driveupload",
+  "version": "1.0.0",
+  "description": "upload a file to google drive",
+  "main": "driveupload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shimon Doodkin <helpmepro1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^2.0.5"
+  }
+}
